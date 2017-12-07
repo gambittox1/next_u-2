@@ -1,5 +1,5 @@
 body {
-	font-family: Indie Flower;
+	font-family:"Dancing Script"
 }
 
 .container {
@@ -12,7 +12,7 @@ body {
 .container div {
 	box-sizing: border-box;
 	min-width: 150px;
-	padding: 10px;
+	padding: 10px 20px;
 }
 
 header {
@@ -31,7 +31,6 @@ header {
 .c1 ul{
     list-style:none;
     margin:10 0 0 0;
-    padding:0px;
 }
 .c1 ul li{
     float:left;
@@ -62,15 +61,24 @@ header {
 	background-color: #d5c75f;
 	border:1px;
 }
+.c3 img{
+	box-shadow: 2px 2px 2px #02010a;
+}
 
 .c4 {
 	color: black;
 	background-color: #d5c75f;
 }
+.c4 img{
+	box-shadow: 2px 2px 2px #02010a;
+}
 
 .c5 {
 	color: black;
 	background-color: #d5c75f;
+}
+.c5 img{
+	box-shadow: 2px 2px 2px #02010a;
 }
 
 .c6 {
@@ -78,15 +86,24 @@ header {
 	background-color: #d5c75f;
 	border:1px;
 }
+.c6 img{
+	box-shadow: 2px 2px 2px #02010a;
+}
 
 .c7 {
 	color: black;
 	background-color: #d5c75f;
 }
+.c7 img{
+	box-shadow: 2px 2px 2px #02010a;
+}
 
 .c8 {
 	color: black;
 	background-color: #d5c75f;
+}
+.c8 img{
+	box-shadow: 2px 2px 2px #02010a;
 }
 
 .imagen1
