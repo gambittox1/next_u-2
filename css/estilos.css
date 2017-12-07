@@ -16,6 +16,7 @@ body {
 
 header {
 	float:left;
+	padding:10px 10px;
 	color: #FFF;
 	display: flex;
 	display: -webkit-flex;
